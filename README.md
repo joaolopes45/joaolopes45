@@ -1,8 +1,8 @@
 # Olá, me chamo João! 
 ## Seja bem-vindo ao meu perfil GitHub
 
-- 💻 Atualmente estou trabalhando com front-end
-- 🖥 Atualmente estudando Análise e Desenvolvimento de Sistemas
+- 💻 Atualmente estou trabalhando com Front-End.
+- 🖥 Atualmente estudando Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Web.
 
 ## Ferramentas e Tecnologias
 <p>
