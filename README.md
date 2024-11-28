@@ -1,5 +1,5 @@
 # Olá, me chamo João! 
-## Bem vindo ao meu perfil GitHub 👋
+## Seja bem-vindo ao meu perfil GitHub
 
 - 💻 Atualmente estou trabalhando com front-end
 - 🖥 Atualmente estudando Análise e Desenvolvimento de Sistemas
