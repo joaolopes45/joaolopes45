@@ -1,8 +1,7 @@
 # Olá, me chamo João! 
 ## Seja bem-vindo ao meu perfil GitHub
 
-- 💻 Atualmente estou trabalhando com Front-End.
-- 🖥 Atualmente estudando Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Web.
+Profissional atuante na área de Front-End, com ênfase em desenvolvimento web e foco na criação de interfaces modernas e responsivas. Em constante evolução acadêmica, curso Análise e Desenvolvimento de Sistemas para ampliar minha capacidade técnica e visão estratégica em soluções digitais.
 
 ## Ferramentas e Tecnologias
 <p>
