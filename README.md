@@ -80,9 +80,6 @@
 
 <br>
 
-![Snake animation](./github-contribution-grid-snake.svg)
-
-
 ##
 
 <div align="center">
