@@ -1,0 +1,17 @@
+name: snake
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # roda a cada hora (pode ajustar)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate snake
+        uses: Platane/snk@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          file: ./github-contribution-grid-snake.svg
