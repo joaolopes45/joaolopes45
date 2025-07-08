@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # roda a cada hora, opcional
+    - cron: '0 * * * *'
 
 jobs:
   build:
@@ -17,5 +17,5 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          file: ./github-contribution-grid-snake.svg
+          github_user_name: joaolopes45   # seu usuário GitHub
+          svg_out_path: ./github-contribution-grid-snake.svg
