@@ -75,7 +75,11 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  
+  <img width="40" src="https://cdn.simpleicons.org/github" />
+  <img width="40" src="https://cdn.simpleicons.org/nodedotjs/339933" />
+  <img width="40" src="https://camo.githubusercontent.com/d444aa819d5ad97038cb775d6c441cd51861b5b4d8068b2f8dc8a84a35d0cfc9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e40322e31352e312f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" />
+  <img width="40" src="https://cdn.simpleicons.org/python/3776AB" />
+
 </div>
 
 <br>
