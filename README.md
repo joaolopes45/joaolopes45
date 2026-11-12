@@ -37,20 +37,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=joaolopes45&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
+    src="./profile/stats.svg"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolopes45&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
+    src="./profile/top-langs.svg"
   />
   <br>
   <br>
   <img
     align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaolopes45&theme=algolia"
+    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaolopes45&theme=algolia"
   />
   <br>
   <br>
